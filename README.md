@@ -20,4 +20,5 @@
 | load_mw  | New England total electricity demand | MW    |
 
 Convention: `hour` is the hour that BEGINS (Hour Ending 01 → the 00:00–01:00 hour). One row per hour; 744 total.
-=======
+
+Winner: partner B
